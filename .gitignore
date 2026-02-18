@@ -1,0 +1,22 @@
+# Python Bytecode (The .pyc files you mentioned)
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables (CRITICAL for security)
+.env
+.env.local
+
+# IDE Settings (VS Code)
+.vscode/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
