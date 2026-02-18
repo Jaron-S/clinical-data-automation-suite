@@ -13,6 +13,7 @@ st.set_page_config(page_title="CDAS - Clinical Data Automation Suite", page_icon
 
 
 # Main Area
+st.warning("⚠️ This application is hosted on Streamlit Community Cloud and is **NOT** HIPAA/HIA compliant. It is for **demo purposes only**. Do not upload real patient data.")
 st.title("Clinical Data Automation Suite 🏥")
 st.markdown("### QC & Reconciliation Dashboard")
 
