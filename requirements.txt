@@ -1,4 +1,6 @@
-pandas
-streamlit
+streamlit>=1.40.0
+pandas>=2.0.0
+numpy
 openpyxl
 pytest
+altair<6
